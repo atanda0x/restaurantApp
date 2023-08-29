@@ -3,6 +3,7 @@ package main
 import (
 	"os"
 
+	"github.com/atanda0x/restaurantApp/routes"
 	"github.com/gin-gonic/gin"
 )
 
